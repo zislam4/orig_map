@@ -95,6 +95,7 @@ define(["messenger"], function(messenger) {
          bounds.extend(this.active_sighting_models.at(i).latLng);
         }
         this.map.setCenter(bounds.getCenter());
+console.log(bounds);
         this.map.fitBounds(bounds);
         this.map.setZoom(this.map.getZoom() - 1);
         return this;
