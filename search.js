@@ -144,6 +144,7 @@ define(["messenger", "sightings"], function(messenger, bird_data) {
         });
 
         messenger.when("add:filter", function(id) {
+console.log("GETTING HERE!");
             console.log(id);
             selected[id] = true;
         })
