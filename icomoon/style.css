@@ -1,0 +1,148 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?ke0ul5');
+	src:url('fonts/icomoon.eot?#iefixke0ul5') format('embedded-opentype'),
+		url('fonts/icomoon.woff?ke0ul5') format('woff'),
+		url('fonts/icomoon.ttf?ke0ul5') format('truetype'),
+		url('fonts/icomoon.svg?ke0ul5#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-question:before {
+	content: "\f128";
+}
+.icon-pencil:before {
+	content: "\e621";
+}
+.icon-feed:before {
+	content: "\e60f";
+}
+.icon-library:before {
+	content: "\e610";
+}
+.icon-tags:before {
+	content: "\e611";
+}
+.icon-coin:before {
+	content: "\e612";
+}
+.icon-address-book:before {
+	content: "\e613";
+}
+.icon-clock:before {
+	content: "\e614";
+}
+.icon-alarm:before {
+	content: "\e615";
+}
+.icon-alarm2:before {
+	content: "\e616";
+}
+.icon-bell:before {
+	content: "\e617";
+}
+.icon-stopwatch:before {
+	content: "\e618";
+}
+.icon-download:before {
+	content: "\e619";
+}
+.icon-upload:before {
+	content: "\e61a";
+}
+.icon-bubbles:before {
+	content: "\e61b";
+}
+.icon-bubbles2:before {
+	content: "\e61c";
+}
+.icon-cog:before {
+	content: "\e61d";
+}
+.icon-cog2:before {
+	content: "\e61e";
+}
+.icon-hammer:before {
+	content: "\e61f";
+}
+.icon-fire:before {
+	content: "\e620";
+}
+.icon-play:before {
+	content: "\e622";
+}
+.icon-pause:before {
+	content: "\e623";
+}
+.icon-backward:before {
+	content: "\e624";
+}
+.icon-forward:before {
+	content: "\e625";
+}
+.icon-previous:before {
+	content: "\e626";
+}
+.icon-next:before {
+	content: "\e627";
+}
+.icon-credit:before {
+	content: "\e600";
+}
+.icon-calendar:before {
+	content: "\e601";
+}
+.icon-calendar2:before {
+	content: "\e602";
+}
+.icon-download2:before {
+	content: "\e603";
+}
+.icon-user:before {
+	content: "\e60a";
+}
+.icon-users:before {
+	content: "\e604";
+}
+.icon-user2:before {
+	content: "\e605";
+}
+.icon-lock:before {
+	content: "\e60b";
+}
+.icon-unlocked:before {
+	content: "\e60c";
+}
+.icon-close:before {
+	content: "\e606";
+}
+.icon-checkmark:before {
+	content: "\e607";
+}
+.icon-enter:before {
+	content: "\e608";
+}
+.icon-exit:before {
+	content: "\e609";
+}
+.icon-arrow-right:before {
+	content: "\e60d";
+}
+.icon-arrow-right2:before {
+	content: "\e60e";
+}
